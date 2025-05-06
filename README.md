@@ -1,4 +1,4 @@
-## ✏️ Hangman game
+## ✏️ Hangman game 
 
 A simple clone of the classic hangman game.
 
